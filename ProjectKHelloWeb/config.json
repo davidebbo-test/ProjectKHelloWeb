@@ -1,0 +1,7 @@
+﻿{
+    "Data": {
+        "DefaultConnection": { 
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnetvnext-ProjectKHelloWeb-7f326d66-db83-4d14-b6f5-5671aa892a9d;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
